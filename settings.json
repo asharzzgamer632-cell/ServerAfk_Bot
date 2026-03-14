@@ -5,10 +5,10 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+  "server": {BadmozzSmp02
+    "ip": "BadmozzSmp02.aternos.me",
+    "port": 12892,
+    "version": "1.21.10"
   },
   "position": {
     "enabled": true,
